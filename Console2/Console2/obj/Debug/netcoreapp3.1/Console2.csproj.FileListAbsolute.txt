@@ -1,0 +1,14 @@
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\bin\Debug\netcoreapp3.1\Console2.exe
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\bin\Debug\netcoreapp3.1\Console2.deps.json
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\bin\Debug\netcoreapp3.1\Console2.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\bin\Debug\netcoreapp3.1\Console2.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\bin\Debug\netcoreapp3.1\Console2.dll
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\bin\Debug\netcoreapp3.1\Console2.pdb
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.dll
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.pdb
+C:\Users\veyse\source\repos\Sabah101\Console2\Console2\obj\Debug\netcoreapp3.1\Console2.genruntimeconfig.cache

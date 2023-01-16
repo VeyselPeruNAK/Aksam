@@ -1,0 +1,14 @@
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\bin\Debug\netcoreapp3.1\Ders_02_Alistirmalar.exe
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\bin\Debug\netcoreapp3.1\Ders_02_Alistirmalar.deps.json
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\bin\Debug\netcoreapp3.1\Ders_02_Alistirmalar.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\bin\Debug\netcoreapp3.1\Ders_02_Alistirmalar.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\bin\Debug\netcoreapp3.1\Ders_02_Alistirmalar.dll
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\bin\Debug\netcoreapp3.1\Ders_02_Alistirmalar.pdb
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.dll
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.pdb
+C:\Users\veyse\source\repos\Sabah303\Ders_02_Alistirmalar\Ders_02_Alistirmalar\obj\Debug\netcoreapp3.1\Ders_02_Alistirmalar.genruntimeconfig.cache
