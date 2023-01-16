@@ -1,0 +1,16 @@
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\bin\Debug\net5.0\Console1.exe
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\bin\Debug\net5.0\Console1.deps.json
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\bin\Debug\net5.0\Console1.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\bin\Debug\net5.0\Console1.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\bin\Debug\net5.0\Console1.dll
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\bin\Debug\net5.0\ref\Console1.dll
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\bin\Debug\net5.0\Console1.pdb
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.dll
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\ref\Console1.dll
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.pdb
+C:\Users\veyse\source\repos\Sabah101\Console1\Console1\obj\Debug\net5.0\Console1.genruntimeconfig.cache
