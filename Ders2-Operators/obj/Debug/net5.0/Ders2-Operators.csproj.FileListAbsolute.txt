@@ -1,0 +1,16 @@
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\bin\Debug\net5.0\Ders2-Operators.exe
+C:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\bin\Debug\net5.0\Ders2-Operators.deps.json
+C:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\bin\Debug\net5.0\Ders2-Operators.runtimeconfig.json
+C:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\bin\Debug\net5.0\Ders2-Operators.runtimeconfig.dev.json
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\bin\Debug\net5.0\Ders2-Operators.dll
+C:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\bin\Debug\net5.0\ref\Ders2-Operators.dll
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\bin\Debug\net5.0\Ders2-Operators.pdb
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.csproj.AssemblyReference.cache
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.AssemblyInfoInputs.cache
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.AssemblyInfo.cs
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.csproj.CoreCompileInputs.cache
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.dll
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\ref\Ders2-Operators.dll
+c:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.pdb
+C:\Users\veyse\source\repos\NA-203-SABAH-CSPROJ\Ders2-Operators\obj\Debug\net5.0\Ders2-Operators.genruntimeconfig.cache

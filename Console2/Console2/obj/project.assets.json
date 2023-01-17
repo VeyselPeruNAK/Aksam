@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Console2\\Console2\\Console2.csproj",
+      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Aksam\\Console2\\Console2\\Console2.csproj",
       "projectName": "Console2",
-      "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Console2\\Console2\\Console2.csproj",
+      "projectPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Console2\\Console2\\Console2.csproj",
       "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Console2\\Console2\\obj\\",
+      "outputPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Console2\\Console2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
