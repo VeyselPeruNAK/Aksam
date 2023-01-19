@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\bin\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\bin\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\bin\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\bin\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\bin\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\bin\Release\net5.0\ref\Ders3-IF-ELSE_IF_ELSE.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\bin\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\ref\Ders3-IF-ELSE_IF_ELSE.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.genruntimeconfig.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders3-IF-ELSE_IF_ELSE\obj\Release\net5.0\Ders3-IF-ELSE_IF_ELSE.csproj.AssemblyReference.cache

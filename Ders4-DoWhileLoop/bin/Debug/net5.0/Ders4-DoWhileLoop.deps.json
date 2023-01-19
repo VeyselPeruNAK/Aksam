@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders4-DoWhileLoop/1.0.0": {
+        "runtime": {
+          "Ders4-DoWhileLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders4-DoWhileLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

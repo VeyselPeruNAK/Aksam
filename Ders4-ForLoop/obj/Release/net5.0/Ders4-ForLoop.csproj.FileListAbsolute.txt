@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\bin\Release\net5.0\Ders4-ForLoop.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\bin\Release\net5.0\Ders4-ForLoop.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\bin\Release\net5.0\Ders4-ForLoop.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\bin\Release\net5.0\Ders4-ForLoop.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\bin\Release\net5.0\Ders4-ForLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\bin\Release\net5.0\ref\Ders4-ForLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\bin\Release\net5.0\Ders4-ForLoop.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\ref\Ders4-ForLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.genruntimeconfig.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-ForLoop\obj\Release\net5.0\Ders4-ForLoop.csproj.AssemblyReference.cache

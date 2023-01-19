@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\bin\Release\net5.0\Ders4-DoWhileLoop.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\bin\Release\net5.0\Ders4-DoWhileLoop.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\bin\Release\net5.0\Ders4-DoWhileLoop.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\bin\Release\net5.0\Ders4-DoWhileLoop.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\bin\Release\net5.0\Ders4-DoWhileLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\bin\Release\net5.0\ref\Ders4-DoWhileLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\bin\Release\net5.0\Ders4-DoWhileLoop.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\ref\Ders4-DoWhileLoop.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.genruntimeconfig.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders4-DoWhileLoop\obj\Release\net5.0\Ders4-DoWhileLoop.csproj.AssemblyReference.cache

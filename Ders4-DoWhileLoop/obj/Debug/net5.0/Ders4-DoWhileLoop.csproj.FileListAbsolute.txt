@@ -1,0 +1,16 @@
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\bin\Debug\net5.0\Ders4-DoWhileLoop.exe
+C:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\bin\Debug\net5.0\Ders4-DoWhileLoop.deps.json
+C:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\bin\Debug\net5.0\Ders4-DoWhileLoop.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\bin\Debug\net5.0\Ders4-DoWhileLoop.runtimeconfig.dev.json
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\bin\Debug\net5.0\Ders4-DoWhileLoop.dll
+C:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\bin\Debug\net5.0\ref\Ders4-DoWhileLoop.dll
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\bin\Debug\net5.0\Ders4-DoWhileLoop.pdb
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.csproj.AssemblyReference.cache
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.AssemblyInfoInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.AssemblyInfo.cs
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.csproj.CoreCompileInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.dll
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\ref\Ders4-DoWhileLoop.dll
+c:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders4-DoWhileLoop\obj\Debug\net5.0\Ders4-DoWhileLoop.genruntimeconfig.cache
