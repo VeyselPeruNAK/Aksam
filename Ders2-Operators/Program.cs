@@ -131,11 +131,12 @@ namespace Ders2_Operators
             ///////    Mantıksal Operatörler.     /////
 
             //int sayi = 77;
-
-            //bool notKontrol = sayi <= 100 && sayi >= 0; // && iki koşulda  sağlanırsa True, en az 1 i sağlanmaz ise False:  Mantıksal VE
+            // && iki koşulda  sağlanırsa True, en az 1 i sağlanmaz ise False:  Mantıksal VE
+            //bool notKontrol = sayi <= 100 && sayi >= 0; 
 
             //int yas = 11;
-            //bool yasKontrol = yas <= 10 || yas >= 65; // İki koşuldan enaz 1 i sağlanırsa True, 2 side sağlnmaz ise False.: Mantıksal VEYA
+            // İki koşuldan enaz 1 i sağlanırsa True, 2 side sağlnmaz ise False.: Mantıksal VEYA
+            //bool yasKontrol = yas <= 10 || yas >= 65; 
             //Console.WriteLine(notKontrol + " " + yasKontrol);
 
             //bool kontrol1 = false;
