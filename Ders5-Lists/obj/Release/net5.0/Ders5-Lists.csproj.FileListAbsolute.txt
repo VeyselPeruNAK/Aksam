@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\bin\Release\net5.0\Ders5-Lists.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\bin\Release\net5.0\Ders5-Lists.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\bin\Release\net5.0\Ders5-Lists.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\bin\Release\net5.0\Ders5-Lists.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\bin\Release\net5.0\Ders5-Lists.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\bin\Release\net5.0\ref\Ders5-Lists.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\bin\Release\net5.0\Ders5-Lists.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\ref\Ders5-Lists.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.genruntimeconfig.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders5-Lists\obj\Release\net5.0\Ders5-Lists.csproj.AssemblyReference.cache

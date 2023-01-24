@@ -120,7 +120,7 @@ namespace Ders3_IF_ELSE_IF_ELSE
             // SORU: Aşağıdaki kontrol programını yazınız.
             // Klavyeden 2 sayı alınız.
             // Klavyeden işlem bilgisi alınız.
-            // (islem => topla,cikar,carp,bol )
+            // (islem => topla,cikar,carp,bol ) (+ - * /)
             // İşleme göre girilen değerleri işleme sokan prog.
 
             //Console.Write("sayi1: ");
@@ -195,12 +195,12 @@ namespace Ders3_IF_ELSE_IF_ELSE
 
 
 
-            // SORU: Klavyeden girilen 5 sayıdan kaçının pozitif kaçının negatif olduğunu sayan ayrıca negitfler toplamı ve pozitifler toplamını ekrana yazdıran prog.
-            // 1. aşama: toplamları ekrana yazdırın.
-            // 2. aşama: kaç negatif kaç pozitif ?
+            // SORU: Klavyeden girilen 5 sayıdan kaçının pozitif kaçının negatif
+            // olduğunu sayan ayrıca negitfler toplamı ve pozitifler toplamını
+            // ekrana yazdıran prog.
             //ÖRN : sayılar: -5,9,11,-15,10
-            // 1. aşama: Negatifler Toplamı: -20, Pozitifler toplamı: 25
-            // 2. aşama: 2 negatif,3 pozitif sayı girildi.
+            // 2 adet negatif sayının toplamı: -15
+            // 3 adet pozitif sayının toplamı: 40
             //int s1 = -10;
             //int s2 = 20;
             //int s3 = 90;

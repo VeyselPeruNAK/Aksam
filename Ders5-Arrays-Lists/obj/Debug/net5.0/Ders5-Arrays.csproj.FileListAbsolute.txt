@@ -1,0 +1,16 @@
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\bin\Debug\net5.0\Ders5-Arrays.exe
+C:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\bin\Debug\net5.0\Ders5-Arrays.deps.json
+C:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\bin\Debug\net5.0\Ders5-Arrays.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\bin\Debug\net5.0\Ders5-Arrays.runtimeconfig.dev.json
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\bin\Debug\net5.0\Ders5-Arrays.dll
+C:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\bin\Debug\net5.0\ref\Ders5-Arrays.dll
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\bin\Debug\net5.0\Ders5-Arrays.pdb
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.csproj.AssemblyReference.cache
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.AssemblyInfoInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.AssemblyInfo.cs
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.csproj.CoreCompileInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.dll
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\ref\Ders5-Arrays.dll
+c:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders5-Arrays-Lists\obj\Debug\net5.0\Ders5-Arrays.genruntimeconfig.cache

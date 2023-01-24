@@ -37,6 +37,7 @@ namespace Ders4_WhileLoop
             //Console.Write("Mesajınızı yazınız (Çıkmak için ÇIK yazınız) : ");
             //string yazi = Console.ReadLine();
             //while (yazi.ToLower() !="çık")
+
             //{
             //    Console.WriteLine(yazi);
             //    Console.Write("Mesajınızı yazınız (Çıkmak için ÇIK yazınız) : ");

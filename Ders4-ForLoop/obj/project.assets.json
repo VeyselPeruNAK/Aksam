@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders4-ForLoop\\Ders4-ForLoop.csproj",
+      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4-ForLoop\\Ders4-ForLoop.csproj",
       "projectName": "Ders4-ForLoop",
-      "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders4-ForLoop\\Ders4-ForLoop.csproj",
+      "projectPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4-ForLoop\\Ders4-ForLoop.csproj",
       "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders4-ForLoop\\obj\\",
+      "outputPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4-ForLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
