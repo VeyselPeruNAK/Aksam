@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj": {}
+    "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj": {
+    "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj",
+        "projectUniqueName": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj",
         "projectName": "Ders4_WhileLoop",
-        "projectPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj",
+        "projectPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\Ders4_WhileLoop.csproj",
         "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\obj\\",
+        "outputPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders4_WhileLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",

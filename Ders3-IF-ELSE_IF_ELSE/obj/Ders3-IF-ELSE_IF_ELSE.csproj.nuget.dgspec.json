@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj": {}
+    "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj": {
+    "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj",
+        "projectUniqueName": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj",
         "projectName": "Ders3-IF-ELSE_IF_ELSE",
-        "projectPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj",
+        "projectPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\Ders3-IF-ELSE_IF_ELSE.csproj",
         "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\obj\\",
+        "outputPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders3-IF-ELSE_IF_ELSE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",

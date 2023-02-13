@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders5-Lists\\Ders5-Lists.csproj",
+      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders5-Lists\\Ders5-Lists.csproj",
       "projectName": "Ders5-Lists",
-      "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders5-Lists\\Ders5-Lists.csproj",
+      "projectPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders5-Lists\\Ders5-Lists.csproj",
       "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders5-Lists\\obj\\",
+      "outputPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders5-Lists\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",

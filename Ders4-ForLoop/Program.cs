@@ -15,7 +15,7 @@ namespace Ders4_ForLoop
             //int toplam = 0;
             //for (int i = 1; i < 4; i++)
             //{
-            //    // toplama her seferinde i'yi keldik.
+            //    // toplama her seferinde i'yi ekledik.
             //    toplam = toplam + i;
             //}
             //Console.WriteLine("Toplam : " + toplam);
@@ -126,24 +126,25 @@ namespace Ders4_ForLoop
 
             //int negToplam = 0;
             //int pozToplam = 0;
-            //for (; ;)
+            //int sayi = 0;
+            //for (; ; )
             //{
             //    Console.Write("Sayı giriniz:");
             //    string giris = Console.ReadLine();
-            //    if (giris.ToLower()=="çık")
+            //    if (giris.ToLower() == "bitir")
             //    {
             //        Console.WriteLine($"Pozitif sayıların toplamı = {pozToplam}");
             //        Console.WriteLine($"Negatif sayıların toplamı = {negToplam}");
             //        break;
             //    }
-            //    else if(giris=="34" || giris=="-34")
+            //    else if (giris.Trim() == "34" || giris.Trim() == "-34")
             //    {
             //        Console.WriteLine("Geçersiz sayı girdiniz.");
             //        continue;
             //    }
             //    else
             //    {
-            //        int sayi = Convert.ToInt32(giris);
+            //        sayi = Convert.ToInt32(giris.Trim());
             //        if (sayi > 0)
             //            pozToplam += sayi;
             //        else
@@ -151,7 +152,7 @@ namespace Ders4_ForLoop
             //    }
             //}
 
-            //// 2) Klavyeden çık değeri alınana kadar girilen ifadeleri bir string değişkende alt alta birleştirip. 
+            //// 2) Klavyeden bitir değeri alınana kadar girilen ifadeleri bir string değişkende alt alta birleştirip. 
             ///     Program sonlanırken string değişkeni ekrana yazdıran programı yazınız.
             //string satirlar = "";
             //while (true)
@@ -169,37 +170,37 @@ namespace Ders4_ForLoop
 
 
 
-            //3) 1 - 10 arasındaki sayıların faktöriyellerini hesaplayıp tüm bu sayıların faktöriyellerini toplayıp toplamı ekrana yazdıran programı yazınız.
-            //int toplam = 0;
-            //for (int i = 1; i <= 10; i++)
-            //{
-            //    int araToplam = 1;
-            //    // 4F = 4.3.2.1
-            //    for (int j = i; j >=1 ; j--)
-            //    {
-            //        araToplam *= j;
-            //    }
-            //    toplam += araToplam;
-            //    Console.WriteLine($"{i} sayısının faktöriyeli = {araToplam}");
-            //}
-            //Console.WriteLine($"Tüm sayların faktöriyellerinin toplamı = {toplam}");
+            // 3) 1 - 10 arasındaki sayıların faktöriyellerini hesaplayıp tüm bu sayıların faktöriyellerini toplayıp toplamı ekrana yazdıran programı yazınız.
+            int toplam = 0;
+            for (int i = 1; i <= 10; i++)
+            {
+                int araToplam = 1;
+                // 4F = 4.3.2.1
+                for (int j = i; j >= 1; j--)
+                {
+                    araToplam *= j;
+                }
+                toplam += araToplam;
+                Console.WriteLine($"{i} sayısının faktöriyeli = {araToplam}");
+            }
+            Console.WriteLine($"Tüm sayların faktöriyellerinin toplamı = {toplam}");
 
             // Çözüm 2
 
-            int faktoriyel = 1;
-            int sayi = 0;
-            int i = 1, toplam = 0;
+            //int faktoriyel = 1;
+            //int sayi = 0;
+            //int i = 1, toplam = 0;
 
-            Console.WriteLine("1-10 arasındaki sayıların faktoriyellerini hesaplamak için herhangi bir sayı giriniz: ");
-            sayi = Convert.ToInt32(Console.ReadLine());
-            for (i = 1; i <= sayi; i++)
-            {
+            //Console.WriteLine("1-10 arasındaki sayıların faktoriyellerini hesaplamak için herhangi bir sayı giriniz: ");
+            //sayi = Convert.ToInt32(Console.ReadLine());
+            //for (i = 1; i <= sayi; i++)
+            //{
 
-                faktoriyel = i * faktoriyel;
-                toplam += faktoriyel;
-                Console.WriteLine($"{i} Sayısının faktöriyeli={faktoriyel} ");
-            }
-            Console.WriteLine($"1-10 arasındaki sayıların faktöriyeller toplamı= {toplam}");
+            //    faktoriyel = i * faktoriyel;
+            //    toplam += faktoriyel;
+            //    Console.WriteLine($"{i} Sayısının faktöriyeli={faktoriyel} ");
+            //}
+            //Console.WriteLine($"1-10 arasındaki sayıların faktöriyeller toplamı= {toplam}");
 
 
 
