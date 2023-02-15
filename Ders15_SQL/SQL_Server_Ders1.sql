@@ -294,7 +294,7 @@ SELECT * from tb_ogrenci WHERE ad LIKE '[A-V]%'
 -- A V arasýndaki harfler ile baþlayan
 SELECT * from tb_ogrenci WHERE ad like '[AV]%'  --  A veya V ile baþlayan
 
-BETWEEN...AND..
+--BETWEEN...AND..
 SELECT * from tb_ogrenci WHERE ad BETWEEN 'Özge' AND 'Veysel'
 SELECT * from tb_ogrenci WHERE ID BETWEEN 10 AND 20
 SELECT * from tb_ogrenci WHERE ID NOT BETWEEN 10 AND 20
@@ -324,3 +324,136 @@ SELECT * FROM tb_ogrenci ORDER BY ad DESC
 TOP Operatörü:
 SELECT TOP 5 * FROM tb_ogrenci
 SELECT TOP 20 PERCENT FROM tb_ogrenci
+
+--Klasik JOIN:
+use AdventureWorksLT2012
+select * from SalesLT.SalesOrderDetail
+select * from SalesLT.Product
+
+select SalesLT.SalesOrderDetail.ProductID, SalesLT.Product.Name
+FROM SalesLT.SalesOrderDetail, SalesLT.Product
+WHERE SalesLT.SalesOrderDetail.ProductID = SalesLT.Product.ProductID;
+--Tablo isimlendirmesi uzun olacaðý için, basit bir sorgu bile çok karmaþýk
+--hal alabilir. Bu nedenle tablolarý takma ad ile isimlendirin. 
+select SOD.ProductID, P.Name
+FROM SalesLT.SalesOrderDetail SOD, SalesLT.Product P
+WHERE SOD.ProductID = P.ProductID;
+
+--SQL Server'da JOIN Mimarisi
+USE DB_Test
+select *
+INTO tb_ogrenci2
+FROM  tb_ogrenci 
+
+select *
+INTO tb_ogretmen2
+FROM  tb_ogretmen 
+
+select *
+INTO tb_sinif2
+FROM  tb_sinif
+
+--Klasik JOIN:
+SELECT o.ad, o.soyad, o.telefon, o.dogumYili, om.ad Ogretmen_Ad,
+om.soyad Ogretmen_Soyad 
+FROM tb_ogrenci2 o, tb_ogretmen2 om
+WHERE o.ogretmenID = om.ID
+ORDER BY 1
+--Ekin ve Ekrem yok. 
+
+--LEFT JOIN
+SELECT o.ad, o.soyad, o.telefon, o.dogumYili, om.ad Ogretmen_Ad,
+om.soyad Ogretmen_Soyad 
+FROM tb_ogrenci2 o
+LEFT JOIN tb_ogretmen2 om
+ON o.ogretmenID = om.ID
+ORDER BY 1
+
+--INNER JOIN 
+SELECT o.ad, o.soyad, o.telefon, o.dogumYili, om.ad Ogretmen_Ad,
+om.soyad Ogretmen_Soyad 
+FROM tb_ogrenci2 o
+INNER JOIN tb_ogretmen2 om
+ON o.ogretmenID = om.ID
+ORDER BY 1
+
+--RIGHT JOIN
+SELECT o.ad, o.soyad, o.telefon, o.dogumYili, om.ad Ogretmen_Ad,
+om.soyad Ogretmen_Soyad 
+FROM tb_ogrenci2 o
+RIGHT JOIN tb_ogretmen2 om
+ON o.ogretmenID = om.ID
+ORDER BY 5
+
+--FULL OUTER JOIN
+SELECT o.ad, o.soyad, o.telefon, o.dogumYili, om.ad Ogretmen_Ad,
+om.soyad Ogretmen_Soyad 
+FROM tb_ogrenci2 o
+FULL OUTER JOIN tb_ogretmen2 om
+ON o.ogretmenID = om.ID
+ORDER BY 1,5
+
+--Constraint
+sp_helpconstraint 'tb_ogrenci'
+
+use db_test
+CREATE TABLE Urunler2(
+UrunID int,
+UrunAd NVARCHAR(200),
+UrunFiyat decimal,
+CONSTRAINT PKC_UrunID PRIMARY KEY(UrunID)
+);
+
+--Mevcut bir tabloda primary key oluþturmak
+CREATE TABLE Kullanicilar(
+KullaniciID INT NOT NULL,
+Ad NVARCHAR(50),
+Soyad NVARCHAR(50),
+KullaniciAd NVARCHAR(20)
+);
+--DROP TABLE Kullanicilar
+
+ALTER Table Kullanicilar
+ADD Constraint PKC_KullaniciID PRIMARY KEY(KullaniciID);
+
+--Unique Index
+use db_test 
+CREATE UNIQUE NONCLUSTERED INDEX [NonClusteredIndex-20230214-131853] 
+ON [dbo].[tb_alan]
+(	[ad] ASC)
+
+ALTER TABLE Kullanicilar
+ADD Constraint CHK_SifreUzunluk CHECK(LEN(Sifre) >=5 AND LEN(Sifre) <=15)
+
+sp_helpconstraint 'Kullanicilar'
+
+set IDENTITY_INSERT tb_ogrenci3 ON
+INSERT INTO tb_ogrenci3([ad] ,
+	[soyad] ,
+	[telefon] ,
+	[tc] ,
+	[sinifID],
+	[ogretmenID] ,
+	[dogumYili] ,
+	[cinsiyet] )
+SELECT 
+[ad] ,
+	[soyad] ,
+	[telefon] ,
+	[tc] ,
+	[sinifID],
+	[ogretmenID] ,
+	[dogumYili] ,
+	[cinsiyet] 
+FROM  tb_ogrenci3 
+
+
+UPDATE tb_ogrenci3 
+set ad = (ABS(CHECKSUM(NewId())) % 10000)
+where cinsiyet=0
+
+
+select   * from tb_ogrenci3 where ad='3277'
+
+select   count(*) from tb_ogrenci3
+
