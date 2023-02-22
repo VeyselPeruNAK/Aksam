@@ -115,40 +115,40 @@ namespace Ders9_For_Devam
             //küçükse "tahmin küçüktür." yazsın. 
             //Sayıyı bulursa tebrik etsin.
             //Program sonunda tüm tahminleri yazsın. 
-            //Random rnd = new Random();
-            //int rastgele = rnd.Next(0, 1000);
-            //Console.WriteLine("Sayı=" + rastgele);
-            //List<int> tahminler = new List<int>();
-            //int i ;
-            //for ( i = 0; i < 15; i++)
-            //{
-            //    Console.Write("Tahmin:");
-            //    int tahmin = Convert.ToInt32(Console.ReadLine());                
-            //    tahminler.Add(tahmin);
-            //    if (tahmin < rastgele)
-            //        Console.WriteLine("Küçük oldu.");
-            //    else if (tahmin > rastgele)
-            //        Console.WriteLine("Büyük oldu.");
-            //    else
-            //    {
-            //        Console.WriteLine("Tebrikler bildiniz." + rastgele);
-            //        break;
-            //    }
+            Random rnd = new Random();
+            int rastgele = rnd.Next(0, 1000);
+            Console.WriteLine("Sayı=" + rastgele);
+            List<int> tahminler = new List<int>();
+            int i;
+            for (i = 0; i < 15; i++)
+            {
+                Console.Write("Tahmin:");
+                int tahmin = Convert.ToInt32(Console.ReadLine());
+                tahminler.Add(tahmin);
+                if (tahmin < rastgele)
+                    Console.WriteLine("Küçük oldu.");
+                else if (tahmin > rastgele)
+                    Console.WriteLine("Büyük oldu.");
+                else
+                {
+                    Console.WriteLine("Tebrikler bildiniz." + rastgele);
+                    break;
+                }
 
-            //}
+            }
 
-            //if(i == 15)
-            //{ 
-            //  Console.WriteLine("Bilemediniz. Sayı=" + rastgele + " idi.");
-            //}
-            //Console.Write("Tahminler:");
-            //foreach (var item in tahminler)
-            //{
-            //    Console.Write(item + " ");
-            //}
-            //Console.WriteLine();
-            //Console.WriteLine("Program sona erdi.");
-            //Console.ReadLine();
+            if (i == 15)
+            {
+                Console.WriteLine("Bilemediniz. Sayı=" + rastgele + " idi.");
+            }
+            Console.Write("Tahminler:");
+            foreach (var item in tahminler)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();
+            Console.WriteLine("Program sona erdi.");
+            Console.ReadLine();
 
             // Bir 15'lik double array'i SqrtBul adlı metoda göndersin. 
             // Metot, Karekökleri içeren double array'i dönsün.

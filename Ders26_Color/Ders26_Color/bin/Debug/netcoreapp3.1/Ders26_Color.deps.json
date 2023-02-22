@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders26_Color/1.0.0": {
+        "runtime": {
+          "Ders26_Color.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders26_Color/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

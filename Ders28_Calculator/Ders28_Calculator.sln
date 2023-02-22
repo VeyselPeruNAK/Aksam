@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders28_Calculator", "Ders28_Calculator\Ders28_Calculator.csproj", "{72471BF4-47D6-4205-9339-F7EBEABF183F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72471BF4-47D6-4205-9339-F7EBEABF183F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72471BF4-47D6-4205-9339-F7EBEABF183F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72471BF4-47D6-4205-9339-F7EBEABF183F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72471BF4-47D6-4205-9339-F7EBEABF183F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A44A674-957A-4E2F-9466-5A085D3B607F}
+	EndGlobalSection
+EndGlobal

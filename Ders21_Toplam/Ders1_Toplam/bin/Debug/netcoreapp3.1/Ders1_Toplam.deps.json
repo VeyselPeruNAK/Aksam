@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders1_Toplam/1.0.0": {
+        "runtime": {
+          "Ders1_Toplam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders1_Toplam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

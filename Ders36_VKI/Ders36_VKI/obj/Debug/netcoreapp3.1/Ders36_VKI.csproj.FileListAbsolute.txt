@@ -1,0 +1,16 @@
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.Form1.resources
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\bin\Debug\netcoreapp3.1\Ders36_VKI.exe
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\bin\Debug\netcoreapp3.1\Ders36_VKI.deps.json
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\bin\Debug\netcoreapp3.1\Ders36_VKI.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\bin\Debug\netcoreapp3.1\Ders36_VKI.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\bin\Debug\netcoreapp3.1\Ders36_VKI.dll
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\bin\Debug\netcoreapp3.1\Ders36_VKI.pdb
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.dll
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.pdb
+C:\Users\veyse\source\repos\Sabah102\Ders36_VKI\Ders36_VKI\obj\Debug\netcoreapp3.1\Ders36_VKI.genruntimeconfig.cache

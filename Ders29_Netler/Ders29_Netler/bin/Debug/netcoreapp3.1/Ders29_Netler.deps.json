@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders29_Netler/1.0.0": {
+        "runtime": {
+          "Ders29_Netler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders29_Netler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

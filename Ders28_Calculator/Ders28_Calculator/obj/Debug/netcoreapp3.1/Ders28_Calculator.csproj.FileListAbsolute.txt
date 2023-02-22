@@ -1,0 +1,16 @@
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\bin\Debug\netcoreapp3.1\Ders28_Calculator.exe
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\bin\Debug\netcoreapp3.1\Ders28_Calculator.deps.json
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\bin\Debug\netcoreapp3.1\Ders28_Calculator.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\bin\Debug\netcoreapp3.1\Ders28_Calculator.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\bin\Debug\netcoreapp3.1\Ders28_Calculator.dll
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\bin\Debug\netcoreapp3.1\Ders28_Calculator.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.Form1.resources
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.dll
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders28_Calculator\Ders28_Calculator\obj\Debug\netcoreapp3.1\Ders28_Calculator.genruntimeconfig.cache

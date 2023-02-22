@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders41_Class_DB", "Ders41_Class_DB\Ders41_Class_DB.csproj", "{374400B6-510C-446B-B128-25547CAA8305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374400B6-510C-446B-B128-25547CAA8305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374400B6-510C-446B-B128-25547CAA8305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374400B6-510C-446B-B128-25547CAA8305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374400B6-510C-446B-B128-25547CAA8305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D48952-2069-440A-BA02-2EB1C5399E19}
+	EndGlobalSection
+EndGlobal

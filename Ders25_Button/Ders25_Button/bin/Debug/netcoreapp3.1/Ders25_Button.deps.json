@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders25_Button/1.0.0": {
+        "runtime": {
+          "Ders25_Button.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders25_Button/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

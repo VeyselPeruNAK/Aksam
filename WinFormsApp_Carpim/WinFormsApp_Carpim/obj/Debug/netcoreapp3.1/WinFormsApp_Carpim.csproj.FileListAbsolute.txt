@@ -1,0 +1,16 @@
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\bin\Debug\netcoreapp3.1\WinFormsApp_Carpim.exe
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\bin\Debug\netcoreapp3.1\WinFormsApp_Carpim.deps.json
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\bin\Debug\netcoreapp3.1\WinFormsApp_Carpim.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\bin\Debug\netcoreapp3.1\WinFormsApp_Carpim.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\bin\Debug\netcoreapp3.1\WinFormsApp_Carpim.dll
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\bin\Debug\netcoreapp3.1\WinFormsApp_Carpim.pdb
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.Form1.resources
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.dll
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.pdb
+C:\Users\veyse\source\repos\Sabah101\WinFormsApp_Carpim\WinFormsApp_Carpim\obj\Debug\netcoreapp3.1\WinFormsApp_Carpim.genruntimeconfig.cache

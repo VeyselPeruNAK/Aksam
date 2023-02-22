@@ -75,7 +75,8 @@ GROUP BY Country
 ORDER BY COUNT(CustomerID) DESC;
 
 --lists the number of orders sent by each shippe
-SELECT Shippers.CompanyName, COUNT(Orders.OrderID) AS NumberOfOrders FROM Orders
+SELECT Shippers.CompanyName, COUNT(Orders.OrderID) AS NumberOfOrders 
+FROM Orders
 INNER JOIN Shippers ON Orders.ShipVia = Shippers.ShipperID
 GROUP BY  Shippers.CompanyName
 ORDER BY 1;
