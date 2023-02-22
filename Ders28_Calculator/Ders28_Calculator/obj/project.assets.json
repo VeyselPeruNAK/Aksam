@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders28_Calculator\\Ders28_Calculator\\Ders28_Calculator.csproj",
+      "projectUniqueName": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders28_Calculator\\Ders28_Calculator\\Ders28_Calculator.csproj",
       "projectName": "Ders28_Calculator",
-      "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders28_Calculator\\Ders28_Calculator\\Ders28_Calculator.csproj",
+      "projectPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders28_Calculator\\Ders28_Calculator\\Ders28_Calculator.csproj",
       "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders28_Calculator\\Ders28_Calculator\\obj\\",
+      "outputPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders28_Calculator\\Ders28_Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,3 +32,4 @@ c:\Users\veyse\source\repos\Aksam\Ders27_PassForm\Ders27_PassForm\obj\Debug\netc
 c:\Users\veyse\source\repos\Aksam\Ders27_PassForm\Ders27_PassForm\obj\Debug\netcoreapp3.1\Ders27_PassForm.dll
 c:\Users\veyse\source\repos\Aksam\Ders27_PassForm\Ders27_PassForm\obj\Debug\netcoreapp3.1\Ders27_PassForm.pdb
 c:\Users\veyse\source\repos\Aksam\Ders27_PassForm\Ders27_PassForm\obj\Debug\netcoreapp3.1\Ders27_PassForm.genruntimeconfig.cache
+c:\Users\veyse\source\repos\Aksam\Ders27_PassForm\Ders27_PassForm\obj\Debug\netcoreapp3.1\Ders27_PassForm.Form3.resources

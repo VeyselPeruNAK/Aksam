@@ -19,8 +19,10 @@ namespace Ders27_PassForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form Form2 = new Form2(textBox1.Text);
-            Form2.ShowDialog();
+            //Form Form2 = new Form2(textBox1.Text);
+            //Form2.ShowDialog();
+            Form Form3 = new Form3(textBox1.Text, Convert.ToInt32(textBox2.Text));
+            Form3.ShowDialog();
         }
     }
 }

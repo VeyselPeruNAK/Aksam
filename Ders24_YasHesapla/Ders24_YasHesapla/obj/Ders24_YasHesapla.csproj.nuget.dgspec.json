@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj": {}
+    "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj": {
+    "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj",
+        "projectUniqueName": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj",
         "projectName": "Ders24_YasHesapla",
-        "projectPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj",
+        "projectPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\Ders24_YasHesapla.csproj",
         "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\obj\\",
+        "outputPath": "c:\\Users\\veyse\\source\\repos\\Aksam\\Ders24_YasHesapla\\Ders24_YasHesapla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
