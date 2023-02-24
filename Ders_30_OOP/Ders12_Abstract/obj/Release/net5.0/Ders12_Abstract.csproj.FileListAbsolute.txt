@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\bin\Release\net5.0\Ders12_Abstract.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\bin\Release\net5.0\Ders12_Abstract.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\bin\Release\net5.0\Ders12_Abstract.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\bin\Release\net5.0\Ders12_Abstract.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\bin\Release\net5.0\Ders12_Abstract.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\bin\Release\net5.0\ref\Ders12_Abstract.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\bin\Release\net5.0\Ders12_Abstract.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.csproj.AssemblyReference.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\ref\Ders12_Abstract.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders12_Abstract\obj\Release\net5.0\Ders12_Abstract.genruntimeconfig.cache

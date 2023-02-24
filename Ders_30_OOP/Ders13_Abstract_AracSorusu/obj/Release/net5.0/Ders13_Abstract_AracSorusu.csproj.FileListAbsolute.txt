@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\bin\Release\net5.0\Ders13_Abstract_AracSorusu.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\bin\Release\net5.0\Ders13_Abstract_AracSorusu.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\bin\Release\net5.0\Ders13_Abstract_AracSorusu.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\bin\Release\net5.0\Ders13_Abstract_AracSorusu.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\bin\Release\net5.0\Ders13_Abstract_AracSorusu.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\bin\Release\net5.0\ref\Ders13_Abstract_AracSorusu.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\bin\Release\net5.0\Ders13_Abstract_AracSorusu.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.csproj.AssemblyReference.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\ref\Ders13_Abstract_AracSorusu.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Abstract_AracSorusu\obj\Release\net5.0\Ders13_Abstract_AracSorusu.genruntimeconfig.cache

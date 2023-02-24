@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders13_AbstractInterface_Together/1.0.0": {
+        "runtime": {
+          "Ders13_AbstractInterface_Together.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders13_AbstractInterface_Together/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

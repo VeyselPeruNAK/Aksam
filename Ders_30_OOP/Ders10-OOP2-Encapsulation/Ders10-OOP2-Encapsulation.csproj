@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ders10_OOP2_Encapsulation</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Kiralama.cs" />
+  </ItemGroup>
+
+</Project>

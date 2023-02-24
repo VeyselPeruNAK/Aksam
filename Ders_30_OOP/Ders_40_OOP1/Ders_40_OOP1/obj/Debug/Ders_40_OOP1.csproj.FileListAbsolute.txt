@@ -1,0 +1,8 @@
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\bin\Debug\Ders_40_OOP1.exe.config
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\bin\Debug\Ders_40_OOP1.exe
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\bin\Debug\Ders_40_OOP1.pdb
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\obj\Debug\Ders_40_OOP1.csproj.AssemblyReference.cache
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\obj\Debug\Ders_40_OOP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\obj\Debug\Ders_40_OOP1.csproj.CoreCompileInputs.cache
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\obj\Debug\Ders_40_OOP1.exe
+C:\Users\201\source\repos\Aksam201\Ders_40_OOP1\Ders_40_OOP1\obj\Debug\Ders_40_OOP1.pdb

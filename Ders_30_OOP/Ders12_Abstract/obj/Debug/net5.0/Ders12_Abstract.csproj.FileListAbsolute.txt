@@ -1,0 +1,16 @@
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\bin\Debug\net5.0\Ders12_Abstract.exe
+C:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\bin\Debug\net5.0\Ders12_Abstract.deps.json
+C:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\bin\Debug\net5.0\Ders12_Abstract.runtimeconfig.json
+C:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\bin\Debug\net5.0\Ders12_Abstract.runtimeconfig.dev.json
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\bin\Debug\net5.0\Ders12_Abstract.dll
+C:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\bin\Debug\net5.0\ref\Ders12_Abstract.dll
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\bin\Debug\net5.0\Ders12_Abstract.pdb
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.csproj.AssemblyReference.cache
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.AssemblyInfoInputs.cache
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.AssemblyInfo.cs
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.csproj.CoreCompileInputs.cache
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.dll
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\ref\Ders12_Abstract.dll
+c:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.pdb
+C:\Users\veyse\source\repos\DerslerRep\Ders12_Abstract\obj\Debug\net5.0\Ders12_Abstract.genruntimeconfig.cache

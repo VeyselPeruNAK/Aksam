@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\bin\Release\net5.0\Ders13_Interface.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\bin\Release\net5.0\Ders13_Interface.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\bin\Release\net5.0\Ders13_Interface.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\bin\Release\net5.0\Ders13_Interface.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\bin\Release\net5.0\Ders13_Interface.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\bin\Release\net5.0\ref\Ders13_Interface.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\bin\Release\net5.0\Ders13_Interface.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\ref\Ders13_Interface.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.genruntimeconfig.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_Interface\obj\Release\net5.0\Ders13_Interface.csproj.AssemblyReference.cache

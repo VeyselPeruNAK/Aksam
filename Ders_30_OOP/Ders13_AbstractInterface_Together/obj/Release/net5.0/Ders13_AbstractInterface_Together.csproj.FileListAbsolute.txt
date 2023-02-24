@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\bin\Release\net5.0\Ders13_AbstractInterface_Together.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\bin\Release\net5.0\Ders13_AbstractInterface_Together.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\bin\Release\net5.0\Ders13_AbstractInterface_Together.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\bin\Release\net5.0\Ders13_AbstractInterface_Together.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\bin\Release\net5.0\Ders13_AbstractInterface_Together.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\bin\Release\net5.0\ref\Ders13_AbstractInterface_Together.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\bin\Release\net5.0\Ders13_AbstractInterface_Together.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.csproj.AssemblyReference.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\ref\Ders13_AbstractInterface_Together.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders13_AbstractInterface_Together\obj\Release\net5.0\Ders13_AbstractInterface_Together.genruntimeconfig.cache

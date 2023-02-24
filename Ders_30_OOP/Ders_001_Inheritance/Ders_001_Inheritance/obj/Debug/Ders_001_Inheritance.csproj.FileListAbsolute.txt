@@ -1,0 +1,11 @@
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\bin\Debug\Ders_001_Inheritance.exe.config
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\bin\Debug\Ders_001_Inheritance.exe
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\bin\Debug\Ders_001_Inheritance.pdb
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.Form1.resources
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.Properties.Resources.resources
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.exe
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.pdb
+C:\Users\veyse\source\repos\DerslerRep\Ders_001_Inheritance\Ders_001_Inheritance\obj\Debug\Ders_001_Inheritance.Form2.resources
